@@ -2,7 +2,7 @@
 <h3>NAME : THAMARAISELVAN V</h3>
 <h3>REGISTER NO: 212221230115</h3>
 <h3>EX. NO : 1</h3>
-<h3>DATE : 27.02.24</h3>
+<h3>DATE : 6.03.24</h3>
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
 PCA-GPU-based-vector-summation.-Explore-the-differences.
 
